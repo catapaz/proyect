@@ -171,6 +171,7 @@ if(!isset($_SESSION['USUARIO']) || empty($_SESSION['USUARIO'])){
       <a href="#acerca">Acerca de nosotros</a>
       <a href="https://streetlightdata.000webhostapp.com/project/register.php">Registrar</a>
       <a href="https://streetlightdata.000webhostapp.com/project/reportes.php">Reportes</a>
+      <a href="https://streetlightdata.000webhostapp.com/project/graficas.html">Graficas</a>
 
       <a style="float:right" href="https://streetlightdata.000webhostapp.com/project/logout.php">Cerrar sesión</a>
      
